@@ -2,9 +2,12 @@
 ## About Me
 **I'm a 14 years old beginner in Cyber Security.**
 
+**I am intermediate in Python, I know basics in C, HTML, CSS and Bash.**
+
 ## CTF
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/33me1lo)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2230391)
+[![Root Me](https://img.shields.io/badge/Root%20Me-3D3D3D?style=for-the-badge&logo=rootme&logoColor=white)](https://www.root-me.org/33me1lo)
 
 ## PROGRAMMING
 [![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
